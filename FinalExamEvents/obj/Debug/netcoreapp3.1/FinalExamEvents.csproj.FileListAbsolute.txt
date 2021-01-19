@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.exe
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.deps.json
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.runtimeconfig.json
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.dll
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\bin\Debug\netcoreapp3.1\FinalExamEvents.pdb
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.AssemblyInfo.cs
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.dll
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.pdb
+C:\Users\USER\source\repos\FinalExamEvents\FinalExamEvents\obj\Debug\netcoreapp3.1\FinalExamEvents.genruntimeconfig.cache
